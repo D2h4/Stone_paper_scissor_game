@@ -1,8 +1,8 @@
 # Stone_paper_scissor_game
-Technology used- HTML5/CSS3, JavaScript
-Purpose-
+Technology used- HTML5/CSS3, JavaScript<br><br>
+Purpose-<br>
          The purpose of the stone-paper-scissors game, also known as rock-paper-scissors, is primarily for entertainment and decision-making in a fair and unbiased manner. It is often used as a simple game of 
-         chance or strategy, where players simultaneously choose one of three options (rock, paper, or scissors), and the outcome is determined based on the rules:
+         chance or strategy, where players simultaneously choose one of three options (rock, paper, or scissors), and the outcome is determined based on the rules:<br>
 
          - Rock beats scissors (rock crushes scissors)
          - Scissors beats paper (scissors cuts paper)
